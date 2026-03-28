@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi 👋 I'm AM BAKSH
 
-<!--
-**Adilbaksh/Adilbaksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Science Enthusiast | Python Learner | Future Data Scientist
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm currently learning **Data Science, Python, and Machine Learning** and building projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🌱 Currently learning: Data Science & Machine Learning
+* 🐍 Working with: Python
+* 📊 Interested in: Data Analysis, Visualization, AI
+* 🎯 Goal: Become a Professional Data Scientist
+* 📍 Location: India
+
+---
+
+## 🧠 Skills
+
+Python | Data Analysis | Machine Learning | Statistics | Problem Solving
+
+---
+
+## 🛠 Tools & Technologies
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
+* Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+* Data Science Projects
+* Machine Learning Algorithms
+* Data Visualization
+* SQL for Data Analysis
+* Deep Learning
+
+---
+
+## 📂 Featured Projects
+
+Here are some projects I am working on:
+
+🔹 Data Analysis Projects
+🔹 Python Practice Programs
+🔹 Machine Learning Models
+🔹 Mini Data Science Projects
+
+## 📊 GitHub Stats
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+* Email: [ambaksh731@gmail.com]
+
+---
+
+⭐ Thanks for visiting my profile!
