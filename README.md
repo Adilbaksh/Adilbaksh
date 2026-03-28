@@ -56,11 +56,9 @@ Here are some projects I am working on:
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adilbaksh&show_icons=true&theme=default)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adilbaksh\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adilbaksh\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adilbaksh&layout=compact)
 
 ---
 
