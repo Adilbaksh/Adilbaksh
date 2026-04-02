@@ -22,7 +22,7 @@ Python | Data Analysis | Machine Learning | Statistics | Problem Solving
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tools & Technologies...
 
 * Python
 * Pandas
@@ -69,3 +69,5 @@ Here are some projects I am working on:
 ---
 
 ⭐ Thanks for visiting my profile!
+
+
